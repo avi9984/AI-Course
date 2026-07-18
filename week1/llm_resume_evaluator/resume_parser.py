@@ -17,36 +17,35 @@ model="llama-3.3-70b-versatile";
 
 job_description="""
 Description
-Do you want to solve real customer problems through innovative technology? Do you enjoy working on scalable services in a collaborative team environment? Do you want to see your code directly impact millions of customers worldwide?
+Node.js Developer
+Job Id : OOJ - 1006
+Posted Date : 17/07/2026
+Experience : 3-5
+Job Type : Permanent
+Location : Gurgaon, HR
+Overview :
+Job Description:
+• Design, develop, and maintain robust backend APIs using Node.js and related frameworks (e.g., Express.js)
+• Implement clean, efficient, and well-documented code adhering to best practices and coding standards
+• Participate in the full development lifecycle, including unit testing, integration testing, and deployment
+• Troubleshoot and resolve technical issues effectively
+• Stay up-to-date on the latest trends and technologies in the Node.js ecosystem
+• Collaborate with front-end developers to ensure seamless integration between backend APIs and user interfaces
+• Participate in code reviews and mentor junior developers
+• Design, develop, and maintain robust backend APIs using Node.js and related frameworks (e.g., Express.js or NestJs)
 
-At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. Customer obsession is part of our company DNA, which has made us one of the world's most beloved brands.
-
-Our Software Development Engineers (SDEs) use modern technology to solve complex problems while seeing their work's impact first-hand. The challenges SDEs solve at Amazon are meaningful and influence millions of customers, sellers, and products globally. We seek individuals passionate about creating new products, features, and services while managing ambiguity in an environment where development cycles are measured in weeks, not years.
-
-At Amazon, we believe in ownership at every level. As an SDE-I, you'll own the entire lifecycle of your code - from design through deployment and ongoing operations. This ownership mindset, combined with our commitment to operational excellence, ensures we deliver the highest quality solutions for our customers.
-
-We're looking for curious minds who think big and want to define tomorrow's technology. At Amazon, you'll grow into the high-impact engineer you know you can be, supported by a culture of learning and mentorship. Every day brings exciting new challenges and opportunities for personal growth.
-Key job responsibilities
-• Collaborate and communicate effectively with experienced cross-disciplinary Amazonians to design, build, and operate innovative products and services that delight our customers, while participating in technical discussions to drive solutions forward.
-• Design and develop scalable solutions using cloud-native architectures and microservices in a large distributed computing environment.
-• Participate in code reviews and contribute to technical documentation.
-• Build and maintain resilient distributed systems that are scalable, fault-tolerant, and cost-effective.
-• Leverage and contribute to the development of GenAI and AI-powered tools to enhance development productivity while staying current with emerging technologies.
-• Write clean, maintainable code following best practices and design patterns.
-• Work in an agile environment practicing CI/CD principles while participating in operational responsibilities including on-call duties.
-• Demonstrate operational excellence through monitoring, troubleshooting, and resolving production issues.
-Basic Qualifications
-- Experience with at least one general-purpose programming language such as Java, Python, C++, C#, Go, Rust, or TypeScript
-- Experience with data structure implementation, basic algorithm development, and/or object-oriented design principles
-- Currently has, or is in the process of obtaining a bachelor’s degree in Computer Science, Computer Engineering, Data Science, Information Systems, or related STEM fields
-- Must be 18 years of age of older
-Preferred Qualifications
-- Experience from previous technical internship(s) or demonstrated project experience
-- Experience with one or more of the following: AI tools for development productivity, Cloud platforms (preferably AWS), Database systems (SQL and NoSQL), Contributing to open-source projects, Version control systems, Debugging and troubleshooting complex systems
-- Demonstrated ability to learn and adapt to new technologies quickly
-- Basic understanding of software development lifecycle (SDLC)
-- Strong problem-solving and analytical skills
-- Excellent written and verbal communication skills
+Qualifications:
+• 3-5 years of professional experience as a Node.js developer
+• In-depth knowledge of Node.js concepts, including asynchronous programming, event loop, and modules
+• Solid understanding of JavaScript (ES6+) and object-oriented programming principles
+• Experience with building and integrating RESTful APIs
+• Experience with relational databases (MySQL, PostgreSQL) and NoSQL databases (MongoDB) is a plus
+• Familiarity with cloud platforms (AWS, GCP, Azure) is a plus
+• Experience with containerization technologies (Docker, Kubernetes) is a plus
+• Excellent communication, collaboration, and problem-solving skills
+• Ability to work independently and as part of a team
+Skills :
+NODE.JS,AWS,AZURE,EXPRESS.JS,KUBERNETES,POSTGRESQL,NOSQL,DOCKER,MYSQL,JAVASCRIPT,Microservices,Kafka,Redis,Architectural Design,TypeScript
 """
 
 class JobD(BaseModel):
